@@ -1,17 +1,20 @@
 # Jurabek Normatov
 
-Junior Java Backend Developer aus Berlin.
+Junior Java Backend Developer und SAP ABAP Entwickler aus Berlin.
 
-Fachinformatiker für Anwendungsentwicklung (IHK Berlin 2025) mit 3 Jahren 
-Praxiserfahrung bei Mercoline GmbH / DATAGROUP. Ich habe eigenständig 
-produktive Systeme entwickelt die täglich im Unternehmenseinsatz laufen.
-Aktuell vertiefe ich meine Spring Boot und Cloud-Kenntnisse.
+Fachinformatiker für Anwendungsentwicklung (IHK Berlin 2025) mit 3 Jahren
+Praxiserfahrung bei Mercoline GmbH / DATAGROUP — einem zertifizierten SAP-Partner
+und IT-Dienstleister mit Fokus auf SAP-Lösungen und EDI-Integration.
+Ich habe eigenständig produktive Systeme entwickelt die täglich im
+Unternehmenseinsatz laufen. Aktuell vertiefe ich meine Spring Boot und
+Cloud-Kenntnisse.
 
 ## Technologien
 
 **Backend:** Java, Spring Boot, REST API, Spring Data JPA, JDBC  
+**SAP:** ABAP, SAP GUI, IDOC, EDIFACT  
 **Datenbanken:** MySQL  
-**Weitere:** Python, ABAP, SQL  
+**Weitere:** Python, SQL  
 **Tools:** Git, Maven, Docker (Grundlagen), Linux  
 **GUI:** JavaFX, Java Swing  
 **In Entwicklung:** Spring Security, JUnit 5, CI/CD, AWS  
@@ -29,14 +32,18 @@ Aktuell vertiefe ich meine Spring Boot und Cloud-Kenntnisse.
 
 ## Berufserfahrung
 
-**Auszubildender Anwendungsentwicklung** — Mercoline GmbH / DATAGROUP, Berlin (2022–2025)
+**Auszubildender Anwendungsentwicklung** — Mercoline GmbH / DATAGROUP, Berlin (2022–2025)  
+*Zertifizierter SAP-Partner und IT-Dienstleister mit Fokus auf SAP-Lösungen und EDI-Integration*
 
 - Python-Monitoring-System für EDI-Pipeline mit 4 Mio. Nachrichten/Tag — Fehlerreaktionszeit von Wochen auf Minuten reduziert
 - Python-Automatisierungsskripte — 200+ Arbeitsstunden für das Team eingespart
-- ABAP-Programm mit Levenshtein-Algorithmus zur Sanktionslistenprüfung
+- ABAP-Programm mit Levenshtein-Algorithmus zur Sanktionslistenprüfung — läuft produktiv im SAP-System
+- EDI-Kundenintegration: Mappings für EDIFACT, XML, IDOC und CSV
 
 ## Kontakt
 
 📧 jurabek.normatov03@gmail.com  
 📍 Berlin | Hamburg, Deutschland  
-💼 Offen für Junior-Stellen: Java Backend · Full Stack · ABAP
+💼 Offen für Junior-Stellen:  
+&nbsp;&nbsp;&nbsp;&nbsp;• Java Backend · Spring Boot · Full Stack  
+&nbsp;&nbsp;&nbsp;&nbsp;• SAP ABAP Entwicklung
