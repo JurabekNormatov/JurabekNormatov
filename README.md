@@ -2,7 +2,7 @@
 
 # Jurabek Normatov
 
-### Junior Java Backend Developer & SAP ABAP Developer — Berlin
+### Junior SAP ABAP Developer & Java Backend Developer — Berlin
 
 📧 jurabek.normatov03@gmail.com &nbsp;|&nbsp; 📞 +49 163 639 6816 &nbsp;|&nbsp; 📍 Berlin | Hamburg
 
